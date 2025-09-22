@@ -1,0 +1,7 @@
+    mapping(uint256 chainId => uint32 eid) public chainIdToEid;
+
+    SupersData public supersData;
+    uint256 public minCommission;
+
+    bool proposeReject;
+    bool executeReject;
