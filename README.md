@@ -104,13 +104,7 @@ yarn test
 ### Testnet or mainnet testing
 Please refer to [integration](#integration) section.
 
-## Integration
-
-
-
-
-## Audits
-
 
 ## License 
-This project is licensed under the [MIT License](LICENSE)
+
+MIT
