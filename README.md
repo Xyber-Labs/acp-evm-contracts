@@ -105,6 +105,6 @@ yarn test
 Please refer to [integration](#integration) section.
 
 
-## License 
+## License
 
 MIT
